@@ -12,6 +12,6 @@ public void display() {  // Method
  
 public static void main(String args[]){
               Car obj=new Car("black");
-                
+              obj.display();
        }
 }
